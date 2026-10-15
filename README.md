@@ -47,7 +47,7 @@ facebook-login-page/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/shreekant984/facebook-login-page.git
    ```
 
 2. Open the project folder.
